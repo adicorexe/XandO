@@ -14,11 +14,8 @@ Play against another person or challenge the built-in AI across different board 
 
 
 
-\*\*\[▶ Play X \& O](https://adicorexe.github.io/XandO/)\*\*
 
-
-
-\*\*\[📂 View Source](https://github.com/adicorexe/XandO)\*\*
+\* You can try via link in About section *
 
 
 
